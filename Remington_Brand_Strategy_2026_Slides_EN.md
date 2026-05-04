@@ -30,55 +30,37 @@ Durability + hair protection + credible engineering at an accessible price point
 
 ---
 
-## Slide 3 — Target Segment 1
-### Hair-Investment First Jobbers (Age 22–30)
+## Slide 3 — Target Audience Segmentation (1 Slide Overview)
+### Segment 1: Hair-Investment First Jobbers (Age 22–30)
 - **Psychology:** Sees purchase as image investment; dislikes complex styling routines.
 - **Motivation:** One product must be durable and truly protective.
 - **Channels:** TikTok, Instagram Reels (7–15 sec), GRWM content.
 - **Whitespace Advantage:** “Premium that lasts” at first-job affordability.
 
-**Visual direction (insert image):**
-- Young professional “before work / after styling” short video stills.
-
----
-
-## Slide 4 — Target Segment 2
-### Grooming-Curious Lifestyle Men (Age 28–40+)
+### Segment 2: Grooming-Curious Lifestyle Men (Age 28–40+)
 - **Psychology:** Interested in care-led grooming culture, not just cutting function.
 - **Motivation:** Wants expert-backed tools with masculine/genderless premium design.
 - **Channels:** Lifestyle/fashion media, expert reviews.
-- **Whitespace Advantage:** Engineering credibility and durability in a more accessible tier.
+- **Whitespace Advantage:** Engineering credibility and durability in an accessible tier.
 
-**Visual direction (insert image):**
-- Clean, minimal male grooming setup with premium black/red palette.
-
----
-
-## Slide 5 — Target Segment 3
-### Protection-Focused Modern Families (Age 30–45)
+### Segment 3: Protection-Focused Modern Families (Age 30–45)
 - **Psychology:** Prioritizes hair safety and health for all family members.
 - **Motivation:** Reliability + protection for frequent use.
 - **Channels:** Facebook, PR content, mobile proof videos.
 - **Whitespace Advantage:** “Everyday reliability” with long-term value.
 
-**Visual direction (insert image):**
-- Family bathroom/lifestyle scene showing shared usage.
-
----
-
-## Slide 6 — Target Segment 4
-### Trend-Recreate Beauty Community
+### Segment 4: Trend-Recreate Beauty Community
 - **Psychology:** Loves trying trends and testing visible outcomes.
 - **Motivation:** Proven materials/technology with repeatable results.
 - **Channels:** TikTok Shop Live, UGC, hashtag discovery.
 - **Whitespace Advantage:** Build always-on “proof loops” vs campaign-only spikes.
 
 **Visual direction (insert image):**
-- Split-screen: trend inspiration vs recreated result using Remington.
+- 4-quadrant persona board (one card per segment) + channel icons.
 
 ---
 
-## Slide 7 — Product Portfolio (Core Line)
+## Slide 4 — Product Portfolio (Core Line)
 ### Core Products & Price Ladder (THB)
 - Advanced Color Protect (S-8605) — **3,900**
 - Keratin Protect (S-8540TH) — **3,500**
@@ -95,7 +77,7 @@ Protection + Performance + Durability = smart long-term investment.
 
 ---
 
-## Slide 8 — New Arrival Launch (June 2026)
+## Slide 5 — New Arrival Launch (June 2026)
 ### REMINGTON® AIRvive™ (Starting from THB 4,900)
 - AIRvive™ Digital Hair Dryer
 - AIRvive™ Slim Straightener
@@ -110,7 +92,7 @@ Protection + Performance + Durability = smart long-term investment.
 
 ---
 
-## Slide 9 — Brand Identity System
+## Slide 6 — Brand Identity System
 ### Core Message
 - “FREE TO HAIR. CARE FOR YOURSELF, EVERY DAY, EVERYBODY.”
 - Thai adaptation: “อิสระได้ทุกทรงที่เป็นคุณ”
@@ -124,7 +106,7 @@ Protection + Performance + Durability = smart long-term investment.
 
 ---
 
-## Slide 10 — CI (Corporate Identity) Guidelines
+## Slide 7 — CI (Corporate Identity) Guidelines
 ### Color System
 - **Remington Red:** #E10600 (Primary)
 - **Black:** #111111 (Base / contrast)
@@ -144,7 +126,7 @@ Protection + Performance + Durability = smart long-term investment.
 
 ---
 
-## Slide 11 — Content Strategy Framework
+## Slide 8 — Content Strategy Framework
 ### Consumer 3 Truths
 1. If used daily, it must not break.
 2. Premium means hair protection, not only styling result.
@@ -162,7 +144,7 @@ Protection + Performance + Durability = smart long-term investment.
 
 ---
 
-## Slide 12 — Short-form Video Playbook (7–15 sec)
+## Slide 9 — Short-form Video Playbook (7–15 sec)
 ### Content Formula: **1 Pain → 1 Mechanism → 1 Result**
 - **Pain:** Frizz, fade, dryness, weak hold.
 - **Mechanism:** e.g., Digital Motor, Keratin Coat, HydraCare.
@@ -176,7 +158,7 @@ Protection + Performance + Durability = smart long-term investment.
 
 ---
 
-## Slide 13 — O2O Growth Engine
+## Slide 10 — O2O Growth Engine
 ### Offline-to-Online Cycling
 1. Event/Pop-up as **experience layer** (live demo)
 2. Trigger social sharing and creator amplification
@@ -191,7 +173,7 @@ Self-reinforcing trust loop with scalable proof assets.
 
 ---
 
-## Slide 14 — Trust Drivers
+## Slide 11 — Trust Drivers
 1. **Trusted Global Brand:** 89+ years of U.S. engineering heritage.
 2. **Visible Proof:** Expert + real user outcomes (UGC).
 3. **Warranty Clarity:** 2-year replacement assurance builds confidence.
@@ -204,7 +186,7 @@ These drivers reduce purchase risk and strengthen “investment piece” percept
 
 ---
 
-## Slide 15 — 2026 KPIs & Execution Priorities
+## Slide 12 — 2026 KPIs & Execution Priorities
 ### Priority Actions
 - Launch AIRvive™ with proof-led creator seeding.
 - Scale short-form 7–15 sec content with weekly test-and-learn cycles.
@@ -228,4 +210,3 @@ These drivers reduce purchase risk and strengthen “investment piece” percept
 2. “Diverse Asian consumers styling hair at home, natural mobile lighting, authentic social media look.”
 3. “Futuristic digital hair dryer product launch visual, metallic textures, minimal luxury background.”
 4. “Brand CI board with red-black-white palette, typography samples, clean geometric layout.”
-
